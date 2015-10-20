@@ -1,6 +1,6 @@
 {
   "name": "unit-synonyms",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Unit synonyms for common units",
   "main": "src/unit-synonyms.js",
   "scripts": {
